@@ -3,7 +3,7 @@ Ray tracing, but in 2D!
 I was using this concept of using raycasts to simulate a ray traced environment in 2d using Unity's low level graphics library (GL), but later abandoned the project when I discovered that 2d lights in a forward 2d renderer (in URP) gave the same look much more efficiently. I tried optimising this by converting the rays into a mesh but still it wasn't much efficient, I'll share that code too.<br><br>
 A [game](https://makra.itch.io/two-opposites) that used this concept!<br><br>
 <img src= "RTDemo.gif"><br><br>
-1. CLone
+1. Clone
 2. Add the camera as the player sprite's child.
 3. Add raytracing.cs to the camera.
 4. Adjust and assign the parameters in the inspector.
