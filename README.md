@@ -8,5 +8,5 @@ A [game](https://makra.itch.io/two-opposites) that used this concept!<br><br>
 3. Add raytracing.cs to the camera.
 4. Adjust and assign the parameters in the inspector.
 5. If you want the surroundings to react to the rays naturally, add colorChange.cs to them.
-6. The player controller has been commented out (just in case if have written yours). Else you can simply remove the commented Update & Fixed Update function in raytracing.cs to use this controller.<br><br>
-Create a material using the Alpha/VertexLit Colored shader (an Unlit shader that supports both Vertex colors and transparency) and assign it as a material to the lines (in raytracing.cs) to give the light a more natural look.
+6. The player controller has been commented out (just in case if have written yours). Else you can simply remove the commented Update & Fixed Update function in raytracing.cs to use this controller.
+<br>Create a material using the Alpha/VertexLit Colored shader (an Unlit shader that supports both Vertex colors and transparency) and assign it as a material to the lines (in raytracing.cs) to give the light a more natural look.
