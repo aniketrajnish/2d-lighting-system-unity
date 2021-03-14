@@ -8,5 +8,5 @@ A [game](https://makra.itch.io/two-opposites) that used this concept!<br><br>
 3. Add raytracing.cs to the camera.
 4. Adjust and assign the parameters in the inspector.
 5. If you want the surrounding to react to the rays naturally, add colorChange.cs to them.
-6. The plyaer controller has been commented out (just in case if have written yours). Else you can simply remove the commented Update & Fixed Update function in raytracing.cs to use this controller.<br>
+6. The player controller has been commented out (just in case if have written yours). Else you can simply remove the commented Update & Fixed Update function in raytracing.cs to use this controller.<br>
 
